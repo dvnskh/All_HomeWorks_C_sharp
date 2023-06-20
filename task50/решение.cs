@@ -48,10 +48,7 @@ static void FillArray(int[,] array)
                 }
             }
 
-            if (numberFound)
-            {
-                break;
-            }
+            
         }
 
         if (!numberFound)

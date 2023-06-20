@@ -69,7 +69,7 @@ void noName(int[,] array1, int[,] array2, int[,] array3)
             {
                 sum += array1[i, k] * array2[k, j];
 
-            }//сортировка пузырьком одномерого массива 
+            }
             array3[i, j] = sum;
         }
     }
